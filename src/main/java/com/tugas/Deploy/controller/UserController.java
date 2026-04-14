@@ -41,9 +41,3 @@ public class UserController {
         return "form";
     }
 
-    @PostMapping("/form")
-    public String processForm(@RequestParam String nama, @RequestParam String nim, @RequestParam String jenisKelamin) {
-        dataMahasiswa.add(new User(nama, nim, jenisKelamin));
-        return "redirect:/home";
-    }
-}
