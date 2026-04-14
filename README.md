@@ -5,29 +5,29 @@
 
 ### 1. Halaman Image Docker Desktop
 *(Setelah push image project sendiri dan pull image dari teman)*
-![Image Docker Desktop](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/872f5236-daf0-4cc6-9dd9-0fb143759d85" />)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bf158f9-e77b-43ed-8376-8dbf0b5db146" />
 
 ### 2. Halaman Container Docker Desktop
 *(Setelah membuat container dari image teman)*
-![Container Docker Desktop](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e344aa1-b5d7-4133-a9f1-325129503588" />)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43e3813e-bee7-4c8d-a95c-e1b533c2035b" />
 
 
 ### 4. Screenshot Fitur Aplikasi (Milik Sendiri)
 * **Halaman Login**
-  ![Login Page](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5813a903-33aa-4ec8-9dbb-cc3b865862ae" />)
+<img width="1603" height="897" alt="image" src="https://github.com/user-attachments/assets/c3716bdb-4c15-4f6b-a564-79f31d4e5d70" />
 * **Halaman Home**
-  ![Home Page](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84f9c278-ed09-4fe1-b8fc-c67263823a08" />)
+<img width="1596" height="883" alt="image" src="https://github.com/user-attachments/assets/2783f932-e01c-4f70-8939-5613544f52c9" />
 * **Halaman Form**
-  ![Form Page](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a364fd71-a610-47de-9900-34251faeec16" />)
+<img width="1596" height="889" alt="image" src="https://github.com/user-attachments/assets/eac84b85-690a-421e-9388-55129b987310" />
 * **Halaman Home Setelah Input**
-  ![Home After Input](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b2894fa-407a-4052-a913-f974a55b4ca0" />)
+<img width="1601" height="896" alt="image" src="https://github.com/user-attachments/assets/6a6c6129-155c-4c4f-b28d-9b7901080b76" />
 
 ### 5. Screenshot Fitur Aplikasi (Image Teman yang di-Pull)
 * **Halaman Login**
-  ![Friend Login Page](<img width="1049" height="556" alt="image" src="https://github.com/user-attachments/assets/dbdba1e9-6ccc-4731-abe7-ce2817a324b7" />)
+<img width="1052" height="560" alt="image" src="https://github.com/user-attachments/assets/ca398e8b-8d4d-4d55-8f71-a148ffd94f32" />
 * **Halaman Home**
-  ![Friend Home Page](<img width="1042" height="553" alt="image" src="https://github.com/user-attachments/assets/86a3f63f-3559-42a8-8c5b-308ab79e5fe5" />)
+<img width="1049" height="561" alt="image" src="https://github.com/user-attachments/assets/cad20ebb-5b8e-4846-bda2-5fee40478023" />
 * **Halaman Form**
-  ![Friend Form Page](<img width="1050" height="553" alt="image" src="https://github.com/user-attachments/assets/dd4893e8-5f47-4a10-9626-abb943ac95ea" />)
+<img width="1045" height="554" alt="image" src="https://github.com/user-attachments/assets/da30c0e7-52dd-4299-acd1-613204f0be90" />
 * **Halaman Home Setelah Input**
-  ![Friend Home After Input](<img width="1044" height="546" alt="image" src="https://github.com/user-attachments/assets/8b52650c-c1a5-44d9-842b-13ae6ef1305e" />)
+<img width="1043" height="558" alt="image" src="https://github.com/user-attachments/assets/ab9ee72f-3762-4ae1-bd97-612d989a5c54" />
