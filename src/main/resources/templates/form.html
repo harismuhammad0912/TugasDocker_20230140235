@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Form Input Mahasiswa</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="p-4 bg-light">
+<div class="container bg-white p-4 shadow-sm">
+    <h5 class="fw-bold mb-4">Form Input Mahasiswa</h5>
+
+    <form action="/form" method="post">
+        <div class="mb-3">
+            <label class="form-label" style="font-size: 14px;">Nama:</label>
+            <input type="text" class="form-control" name="nama" required>
+        </div>
+
+        <div class="mb-4">
+            <label class="form-label" style="font-size: 14px;">NIM:</label>
+            <input type="text" class="form-control" name="nim" required>
+        </div>
+
+        <div class="mb-4">
+            <label class="form-label d-block" style="font-size: 14px;">Jenis Kelamin:</label>
+            <div class="form-check form-check-inline mb-2">
+                <input class="form-check-input" type="radio" name="jenisKelamin" value="Laki-laki" required>
+                <label class="form-check-label" style="font-size: 14px;">Laki-laki</label>
+            </div>
+            <br>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="jenisKelamin" value="Perempuan">
+                <label class="form-check-label" style="font-size: 14px;">Perempuan</label>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary px-4 py-1 mb-3" style="font-size: 14px;">Submit</button>
+    </form>
+    <br>
+    <a href="/home" class="text-decoration-none text-primary" style="font-size: 14px;">Kembali ke Home</a>
+</div>
+</body>
+</html>
